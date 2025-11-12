@@ -30,7 +30,7 @@ from graphiti_core.llm_client.gemini_client import GeminiClient, LLMConfig
 from graphiti_core.embedder.gemini import GeminiEmbedder, GeminiEmbedderConfig
 from graphiti_core.cross_encoder.gemini_reranker_client import GeminiRerankerClient
 
-api_key="AIzaSyAXIi1MAH-uFAchXa_AsF7UlJzNTANiTVg"
+api_key=""
 
 #################################################
 # CONFIGURATION
